@@ -49,10 +49,6 @@ powerBI/
 - **Custom Visuals**: Unique charts and visual elements
 - **Performance Optimization**: Efficient data models and queries
 
-## 📸 Screenshots
-
-![Dashboard Preview](screenshots/dashboard-preview.png)
-*Example dashboard showing key metrics and visualizations*
 
 ## 🔧 How to Use
 
