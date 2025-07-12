@@ -77,3 +77,4 @@ For questions about these Power BI projects or collaboration opportunities, plea
 
 ---
 *This repository is regularly updated with new projects and improvements.*
+
